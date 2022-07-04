@@ -1,0 +1,30 @@
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.AssemblyInfo.cs
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\bin\Debug\net6.0\array-loop.exe
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\bin\Debug\net6.0\array-loop.deps.json
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\bin\Debug\net6.0\array-loop.runtimeconfig.json
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\bin\Debug\net6.0\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\bin\Debug\net6.0\array-loop.pdb
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\refint\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.pdb
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\array-loop.genruntimeconfig.cache
+C:\Users\User\Progra - Talleres\09 - Array Loop\array-loop\obj\Debug\net6.0\ref\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\bin\Debug\net6.0\array-loop.exe
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\bin\Debug\net6.0\array-loop.deps.json
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\bin\Debug\net6.0\array-loop.runtimeconfig.json
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\bin\Debug\net6.0\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\bin\Debug\net6.0\array-loop.pdb
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.AssemblyInfo.cs
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\refint\array-loop.dll
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.pdb
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\array-loop.genruntimeconfig.cache
+C:\Users\User\Progra - Talleres\09 - Sumar una lista\array-loop\obj\Debug\net6.0\ref\array-loop.dll
